@@ -6,10 +6,18 @@ codsoft internship:TASK 3
 
 INTERNSHIP DOMAIN:PYTHON PROGRAMMING
 
-PASSWORD GENERATOR
+CONTACT BOOK
 
-Build a password generator using python that runs in the command-line interface and let the user to customize the length.
+Build a contact book using python to store name,phone number,email,address.And also options like add new contacts,search contact,update contact,delete contact and user interface.
 
 FEATURES
 
-LENGTH: choose desired password length
+Add contact
+
+Search contact
+
+View contact
+
+Update contact
+
+Delete contact
